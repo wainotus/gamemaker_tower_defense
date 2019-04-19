@@ -1,3 +1,3 @@
 /// @desc refund tower
 instance_destroy();
-global.coins += 200;
+global.coins += 100;

@@ -42,7 +42,7 @@
             "Key": "08851dcf-6821-4c2d-b323-b893afc2f99d",
             "Value": {
                 "id": "26e4c88b-3bbb-433b-905f-211cbc2d1ee4",
-                "resourcePath": "objects\\obj_tower1\\obj_tower1.yy",
+                "resourcePath": "objects\\obj_tower_base\\obj_tower_base.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -90,7 +90,7 @@
             "Key": "1c4fdef8-b5b2-4507-afe4-239f643d905a",
             "Value": {
                 "id": "724c7882-eac4-47d3-9652-35bc5c156df2",
-                "resourcePath": "objects\\obj_tower2\\obj_tower2.yy",
+                "resourcePath": "objects\\obj_tower_BB\\obj_tower_BB.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -106,7 +106,7 @@
             "Key": "1f0c0df6-98ff-4fef-b7bb-b63bfe8e69fc",
             "Value": {
                 "id": "4187c114-1888-4ef3-a36d-574294bd672c",
-                "resourcePath": "objects\\obj_tower2_click\\obj_tower2_click.yy",
+                "resourcePath": "objects\\obj_tower_BB_click\\obj_tower_BB_click.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "9d94507d-c27e-4e9e-9335-26c571d8637b",
             "Value": {
                 "id": "881e2a25-b758-4f8f-ba05-b1664c9cc726",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_easy\\room_easy.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -386,7 +386,7 @@
             "Key": "c8c81990-32f1-4da0-b9b1-4867633682b4",
             "Value": {
                 "id": "02b6cb12-4aca-44f9-a426-830338887b75",
-                "resourcePath": "objects\\obj_tower3\\obj_tower3.yy",
+                "resourcePath": "objects\\obj_tower_GG\\obj_tower_GG.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -444,6 +444,14 @@
                 "id": "ad6460dc-2c21-4e56-bdac-2afd1447e7e6",
                 "resourcePath": "objects\\obj_tower_parent\\obj_tower_parent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ee40e23c-213d-479b-b570-28bc2db86c08",
+            "Value": {
+                "id": "0457e860-a699-4881-adb0-dbe51a07eccf",
+                "resourcePath": "rooms\\room_menu\\room_menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

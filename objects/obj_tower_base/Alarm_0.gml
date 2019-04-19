@@ -1,4 +1,4 @@
-if(instance_exists(objectToShoot))
+	if(instance_exists(objectToShoot))
 {
 	var bullet = instance_create_depth(x,y,-9,obj_bullet);
 	bullet.speed = 10;
