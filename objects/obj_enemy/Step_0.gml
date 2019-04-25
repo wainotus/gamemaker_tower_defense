@@ -1,25 +1,27 @@
 if(hp <= 0) instance_destroy();
 
+
+
 // facing right
-if(path_position = .14)
+if(direction != 270)
 {
-	object_set_sprite(0,spr_enemy_right);
+	object_set_sprite(self, spr_enemy_right);
 }
 
 // facing up
-if(path_position = .28)
+if(instance_position(x,y,obj_enemy) < instance_position(x,yprevious,obj_enemy))
 {
-	object_set_sprite(0,spr_enemy_up);
+	sprite_index = spr_enemy_up
 }
 
 // facing left
-if(direction=180)
+if(instance_position(x,y,obj_enemy) < instance_position(xprevious,y,obj_enemy))
 {
-	object_set_sprite(0,spr_enemy_left);
+	sprite_index = spr_enemy_left
 }
 
 // facing down
-if(direction=270)
+if(instance_position(x,y,obj_enemy) > instance_position(x,yprevious,obj_enemy))
 {
-	object_set_sprite(0,spr_enemy_down);
+	sprite_index = spr_enemy_down
 }
