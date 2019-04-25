@@ -1,6 +1,6 @@
 
 {
-    "name": "room1",
+    "name": "room_map_2",
     "id": "62dfa418-d527-43c7-bfed-bded052a2a57",
     "creationCodeFile": "",
     "inheritCode": false,
