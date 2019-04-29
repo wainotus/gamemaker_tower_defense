@@ -5,7 +5,7 @@ alarm[0] = 1;
 alarm[1] = room_speed * 5;
 //setting enemy health and stats
 global.hp = 100;
-global.spd = 3;
+global.spd = 1;
 global.level = 1;
 
-global.coins = 5000;
+global.coins = 500;
