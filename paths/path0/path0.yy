@@ -84,14 +84,14 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 560,
-            "y": 368,
+            "y": 272,
             "speed": 100
         },
         {
             "id": "99b97165-55f6-482b-abe1-5f5b6cb30715",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 208,
+            "x": 560,
             "y": 368,
             "speed": 100
         },
@@ -100,14 +100,14 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 208,
-            "y": 304,
+            "y": 368,
             "speed": 100
         },
         {
             "id": "77ae10c9-0b6b-49cc-9d47-fd5bfb000c8f",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 112,
+            "x": 208,
             "y": 304,
             "speed": 100
         },
@@ -116,10 +116,18 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 112,
+            "y": 304,
+            "speed": 100
+        },
+        {
+            "id": "c9c9cde5-4d18-44d5-b553-8e3081300415",
+            "modelName": "GMPathPoint",
+            "mvc": "1.0",
+            "x": 112,
             "y": 496,
             "speed": 100
         }
     ],
-    "precision": 4,
+    "precision": 1,
     "vsnap": 0
 }
