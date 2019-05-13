@@ -21,7 +21,5 @@ if(room = room_map_4)
 {
 	mypath = path3;
 }
-
 path_start(mypath,global.spd,0,1);
 hp = global.hp;
-spd = global.spd;
