@@ -9,7 +9,6 @@ if (en != noone)
 		{
 			alarm[0] = 1;
 			shooting = true;
-			draw_line(x,y,en.x,en.y);
 		}
 		objectToShoot = en;
 	}

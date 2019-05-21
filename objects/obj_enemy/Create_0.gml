@@ -1,3 +1,5 @@
+///Path Selecting
+
 //room 1
 if(room = room_map_1)
 {
