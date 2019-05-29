@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "10f6d2e6-fef8-4678-b392-b85808b618b3",
+            "Value": {
+                "id": "49946559-a48a-4fc5-be18-64da2af9340d",
+                "resourcePath": "sprites\\spr_title_background\\spr_title_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "12ed94ca-8f13-4e37-b3a4-6eed5349cb42",
             "Value": {
                 "id": "08d0e197-74e4-4d74-8bf2-1cd2d701f4da",
@@ -762,7 +770,7 @@
             "Key": "a89a676b-e7ba-4845-8147-11e420e7039e",
             "Value": {
                 "id": "3de8038e-7f8a-4b3d-9af3-bda3d4117a4b",
-                "resourcePath": "sprites\\sprite30\\sprite30.yy",
+                "resourcePath": "sprites\\spr_restaurant_tiles\\spr_restaurant_tiles.yy",
                 "resourceType": "GMSprite"
             }
         },

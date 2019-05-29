@@ -2,7 +2,7 @@
     "id": "a89a676b-e7ba-4845-8147-11e420e7039e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite30",
+    "name": "spr_restaurant_tiles",
     "For3D": false,
     "HTile": false,
     "VTile": false,
