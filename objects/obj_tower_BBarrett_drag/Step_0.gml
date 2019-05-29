@@ -3,5 +3,6 @@
 x = mouse_x;
 y = mouse_y;
 
-if(place_meeting(x,y,obj_reg) or place_meeting(x,y,obj_tower_parent)) col = c_red;
+if(place_meeting(x,y,obj_reg) or place_meeting(x,y,obj_tower_parent) or place_meeting(x,y,obj_table))
+	col = c_red;
 else col = c_white;

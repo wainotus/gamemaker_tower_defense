@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "285ea8ed-d2a9-4e06-9768-e10f69de4f30",
+            "Value": {
+                "id": "4a250e0f-6124-40c5-b601-caa85a2241a8",
+                "resourcePath": "objects\\obj_tower_info\\obj_tower_info.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "28ace106-5474-4ac9-9faa-586c245d8b5a",
             "Value": {
                 "id": "a0a9d427-21af-4607-935d-24ebcce9b396",
@@ -626,7 +634,7 @@
             "Key": "93646546-ec22-4524-9efb-03487cef3bf7",
             "Value": {
                 "id": "9710f71a-99a0-4a95-8942-97e93056c4bb",
-                "resourcePath": "sprites\\sprite31\\sprite31.yy",
+                "resourcePath": "sprites\\spr_restaurant\\spr_restaurant.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -787,6 +795,14 @@
             "Value": {
                 "id": "8f07326d-6de3-48b3-b7c8-bea85d63d3bd",
                 "resourcePath": "sprites\\spr_tower_SSpreader\\spr_tower_SSpreader.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a86ad3d5-06ca-409a-8cbb-1503e01f68ec",
+            "Value": {
+                "id": "33bd7c5d-9284-4488-ad40-62ea5292a21b",
+                "resourcePath": "sprites\\spr_tower_info\\spr_tower_info.yy",
                 "resourceType": "GMSprite"
             }
         },

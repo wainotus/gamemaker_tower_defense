@@ -2,7 +2,7 @@
     "id": "93646546-ec22-4524-9efb-03487cef3bf7",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite31",
+    "name": "spr_restaurant",
     "For3D": false,
     "HTile": false,
     "VTile": false,
