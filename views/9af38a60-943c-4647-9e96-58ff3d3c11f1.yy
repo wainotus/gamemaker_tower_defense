@@ -7,7 +7,8 @@
         "08c2f762-29b7-4880-baf0-67f170e8d374",
         "49274b86-da6f-47ae-8629-2f893cf5f4f5",
         "3a597a63-bd7b-42eb-aeac-03f8fec02db2",
-        "6d58331e-2659-4308-b6f7-82da76530466"
+        "6d58331e-2659-4308-b6f7-82da76530466",
+        "a86ad3d5-06ca-409a-8cbb-1503e01f68ec"
     ],
     "filterType": "GMSprite",
     "folderName": "selectors",
