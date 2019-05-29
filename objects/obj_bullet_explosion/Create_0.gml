@@ -1,0 +1,1 @@
+image_angle = obj_tower_CCannon.image_angle;

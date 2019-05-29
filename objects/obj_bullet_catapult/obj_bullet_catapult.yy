@@ -4,20 +4,11 @@
     "mvc": "1.0",
     "name": "obj_bullet_catapult",
     "eventList": [
-        {
-            "id": "38dcfd2c-ffe6-4ded-9cd3-fc6837bac130",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 7,
-            "m_owner": "d8616d16-c7fb-4da7-862c-f16b228cdbaf"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "a2183a2a-52b8-4535-a102-a63cb9cb7e1e",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

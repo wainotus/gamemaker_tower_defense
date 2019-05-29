@@ -7,7 +7,8 @@
         "85ba041c-b1f5-405d-83d4-d26b25a5a8bb",
         "98d978cd-0f37-46a2-a286-669c09ed4c59",
         "a774a08d-94b6-424a-9ade-3e8fe6809398",
-        "52e25a80-93c6-4881-bafd-e5c78210e226"
+        "52e25a80-93c6-4881-bafd-e5c78210e226",
+        "54f25184-21d9-4c8b-9bff-23bd820674d7"
     ],
     "filterType": "GMSprite",
     "folderName": "bullets",

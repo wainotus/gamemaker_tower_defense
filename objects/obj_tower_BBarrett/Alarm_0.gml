@@ -4,6 +4,7 @@ if(instance_exists(objectToShoot))
 	bullet.speed = 40;
 	bullet.direction = point_direction(x,y,objectToShoot.x,objectToShoot.y);
 	alarm[0] = fire_rate;
+	image_angle = bullet.direction;
 }
 else
 {
