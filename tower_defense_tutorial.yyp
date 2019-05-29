@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "3a636623-316d-4a22-9db7-080cef572540",
+            "Value": {
+                "id": "e1c08ef4-604c-45a9-9602-0a72c12c76b4",
+                "resourcePath": "sprites\\spr_bullet_catapult\\spr_bullet_catapult.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c93ff1a-7964-490c-a434-0a55875bd38c",
             "Value": {
                 "id": "5869c18b-feb7-4bc9-8583-3974260a6413",
@@ -667,14 +675,6 @@
             "Value": {
                 "id": "3d2de298-63ca-46ae-a4db-bf29949478bd",
                 "resourcePath": "sprites\\spr_water\\spr_water.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "98d978cd-0f37-46a2-a286-669c09ed4c59",
-            "Value": {
-                "id": "c58c9c1f-6e41-4d89-98d2-ca8ef3058ad1",
-                "resourcePath": "sprites\\spr_bullet_catapult\\spr_bullet_catapult.yy",
                 "resourceType": "GMSprite"
             }
         },
